@@ -1,11 +1,11 @@
 package Hediyehloo;
 
 public class Hello {
-	public void hello() {
+	public static void hello() {
 		System.out.println("Hallo1");
 		
 	}
-	public void hello2() {
+	public static void hello2() {
 		System.out.println("Hallo2");
 	}
 
